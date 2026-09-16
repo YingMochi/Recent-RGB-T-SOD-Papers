@@ -1,5 +1,9 @@
 ## RGB-T SOD Papers
 
+### 选文范围
+
+本列表主要整理近三年（2024–2026）正式发表的 RGB-T SOD 相关论文，优先关注具有代表性的顶会与顶刊工作。会议重点包括：CVPR、ICCV、ECCV、ICML、NeurIPS、ICLR、AAAI、ACM MM、IJCAI；期刊重点包括：TPAMI、IJCV、TIP、TMM、TCSVT。
+
 ### 2026
 
 | No. | Pub. | Title | Links |
