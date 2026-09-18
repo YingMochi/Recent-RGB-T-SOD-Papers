@@ -1,8 +1,8 @@
-## RGB-T SOD Papers
+## 2. RGB-T SOD Papers
 
 ### 选文范围
 
-本列表主要整理近三年（2024–2026）正式发表的 RGB-T SOD 相关论文，优先关注具有代表性的顶会与顶刊工作。会议重点包括：CVPR、ICCV、ECCV、ICML、NeurIPS、ICLR、AAAI、ACM MM、IJCAI；期刊重点包括：TPAMI、IJCV、TIP、TMM、TCSVT。
+本列表的选文范围是近三年（2024–2026）正式发表或已被正式接收的 RGB-T / RGBT Salient Object Detection 论文，重点整理发表在顶会、顶刊中的工作。会议重点关注：CVPR、ICCV、ECCV、ICML、NeurIPS、ICLR、AAAI、ACM MM、IJCAI；期刊重点关注：IEEE TPAMI、IJCV、IEEE TIP、IEEE TMM、IEEE TCSVT。论文必须明确使用 RGB / Visible 与 Thermal / Infrared（或等价的 RGB-T / RGB-IR）模态开展 Salient Object Detection；RGB-T Detection、Tracking、Segmentation、Re-identification、Image Fusion 等相邻任务不纳入本列表。上述 Venue 是主要检索和纳入范围；其他正式发表且在 RGB-T SOD 领域具有代表性的高水平 Venue 工作，可在完成核验后保留。
 
 ### 2026
 
@@ -17,6 +17,9 @@
 | 07 | IEEE TCSVT | HyPSAM: Hybrid Prompt-Driven Segment Anything Model for RGB-Thermal Salient Object Detection | [Paper](https://doi.org/10.1109/TCSVT.2025.3613770) / [Code](https://github.com/milotic233/HyPSAM) |
 | 08 | IEEE TCSVT | Empirical Study on Fusion Strategy in RGB-T Salient Object Detection | [Paper](https://doi.org/10.1109/TCSVT.2026.3662754) / [Code] |
 | 09 | IEEE TCSVT | Deep Fourier-Embedded Network for RGB and Thermal Salient Object Detection | [Paper](https://doi.org/10.1109/TCSVT.2025.3629727) / [Code](https://github.com/JoshuaLPF/FreqSal) |
+| 10 | ECCV | RA-SOD: Reliability-Aware RGB-T Salient Object Detection under Modality Degradation | [Paper](https://arxiv.org/abs/2609.12622) / [Code](https://github.com/zaoxienian/RA-SOD) |
+| 11 | ECCV | Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection | [Paper](https://arxiv.org/abs/2606.26849) / [Code] |
+| 12 | IJCV | A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection | [Paper](https://doi.org/10.1007/s11263-026-02793-4) / [Code](https://github.com/Yukarizz/CRTFS) |
 
 ### 2025
 
@@ -31,6 +34,7 @@
 | 07 | IEEE TCSVT | Explicitly Disentangling and Exclusively Fusing for Semi-Supervised Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10788520/) / [Code] |
 | 08 | IEEE TCSVT | Unified-Modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://doi.org/10.1109/TCSVT.2025.3589639) / [Code](https://github.com/Angknpng/UniSOD) |
 | 09 | IEEE TCSVT | Intra-Modality Self-Enhancement Mirror Network for RGB-T Salient Object Detection | [Paper](https://doi.org/10.1109/TCSVT.2024.3489440) / [Code] |
+| 10 | IEEE TPAMI | ComPtr: Toward Diverse Bi-Source Dense Prediction Tasks via a Simple Yet General Complementary Transformer | [Paper](https://doi.org/10.1109/TPAMI.2025.3578494) / [Code](https://github.com/lartpang/ComPtr) |
 
 ### 2024
 
