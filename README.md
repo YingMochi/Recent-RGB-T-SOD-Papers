@@ -1,4 +1,4 @@
-## 2. RGB-T SOD Papers
+## RGB-T SOD Papers
 
 ### 选文范围
 
