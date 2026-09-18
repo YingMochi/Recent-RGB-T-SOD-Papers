@@ -2,7 +2,7 @@
 
 ### 选文范围
 
-本列表的选文范围是近三年（2024–2026）正式发表或已被正式接收的 RGB-T / RGBT Salient Object Detection 论文，重点整理发表在顶会、顶刊中的工作。会议重点关注：CVPR、ICCV、ECCV、ICML、NeurIPS、ICLR、AAAI、ACM MM、IJCAI；期刊重点关注：IEEE TPAMI、IJCV、IEEE TIP、IEEE TMM、IEEE TCSVT。论文必须明确使用 RGB / Visible 与 Thermal / Infrared（或等价的 RGB-T / RGB-IR）模态开展 Salient Object Detection；RGB-T Detection、Tracking、Segmentation、Re-identification、Image Fusion 等相邻任务不纳入本列表。上述 Venue 是主要检索和纳入范围；其他正式发表且在 RGB-T SOD 领域具有代表性的高水平 Venue 工作，可在完成核验后保留。
+本列表的选文范围是近三年（2024–2026）正式发表或已被正式接收的 RGB-T / RGBT Salient Object Detection 论文，重点整理发表在顶会、顶刊中的工作。会议重点关注：CVPR、ICCV、ECCV、ICML、NeurIPS、ICLR、AAAI、ACM MM、IJCAI；期刊重点关注：IEEE TPAMI、IJCV、IEEE TIP、IEEE TMM、IEEE TCSVT。
 
 ### 2026
 
